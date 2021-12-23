@@ -1,0 +1,3 @@
+jafal,jafal,140,piece,144
+isis,isis,120,piece,346
+sabona,sabona jamila,70,piece,100

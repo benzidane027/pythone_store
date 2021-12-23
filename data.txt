@@ -1,0 +1,2 @@
+masalha,masalha,70,piece,200
+jambo,jombo,10,piece,150
